@@ -2,23 +2,23 @@
 pat乙级真题练习 java版本 不断更新中。
 # PAT乙级题解
 
-|  ID  | Title                        |                       C/C++                       |                             Java                             | 备注                  |
+|  ID  | Title                        |                             Java                             | 备注                  |
 | :--: | ---------------------------- | :-----------------------------------------------: | :----------------------------------------------------------: | --------------------- |
-| 1001 | 害死人不偿命的(3n+1)猜想(15) |  [查看题解](http://www.liuchuo.net/archives/510)  |      [查看题解](https://www.liuchuo.net/archives/4778)       | 模拟                  |
-| 1002 | 写出这个数 (20)              |  [查看题解](http://www.liuchuo.net/archives/513)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1002/Main.java) | 字符串处理            |
-| 1003 | 我要通过！(20)               |  [查看题解](http://www.liuchuo.net/archives/460)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1003/Main.java) | 数学题                |
-| 1004 | 成绩排名 (20)                |  [查看题解](http://www.liuchuo.net/archives/516)  |                                                              | 查找元素              |
-| 1005 | 继续(3n+1)猜想 (25)          |  [查看题解](http://www.liuchuo.net/archives/455)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1005/Main.java) | Hash散列              |
-| 1006 | 换个格式输出整数 (15)        |  [查看题解](http://www.liuchuo.net/archives/518)  |                                                              | 字符串处理            |
-| 1007 | 素数对猜想 (20)              |  [查看题解](http://www.liuchuo.net/archives/520)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1007/Main.java) | 素数                  |
-| 1008 | 数组元素循环右移问题 (20)    |  [查看题解](http://www.liuchuo.net/archives/522)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1008/Main.java) | 模拟                  |
-| 1009 | 说反话 (20)                  |  [查看题解](http://www.liuchuo.net/archives/524)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1009/Main.java) | 字符串处理            |
-| 1010 | 一元多项式求导 (25)          |  [查看题解](http://www.liuchuo.net/archives/526)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1010/Main.java) | 模拟                  |
-| 1011 | A+B和C (15)                  |  [查看题解](http://www.liuchuo.net/archives/822)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1011/Main.java) | 模拟                  |
-| 1012 | 数字分类 (20)                |  [查看题解](http://www.liuchuo.net/archives/528)  |                                                              | 模拟                  |
-| 1013 | 数素数 (20)                  |  [查看题解](http://www.liuchuo.net/archives/530)  |                                                              | 素数                  |
-| 1014 | 福尔摩斯的约会 (20)          |  [查看题解](http://www.liuchuo.net/archives/532)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1014/Main.java) | 字符串处理            |
-| 1015 | 德才论 (25)                  |  [查看题解](http://www.liuchuo.net/archives/498)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1015/Main.java) | 排序                  |
+| 1001 | 害死人不偿命的(3n+1)猜想(15) |     [查看题解](https://www.liuchuo.net/archives/4778)       | 模拟                  |
+| 1002 | 写出这个数 (20)              |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1002/Main.java) | 字符串处理            |
+| 1003 | 我要通过！(20)               |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1003/Main.java) | 数学题                |
+| 1004 | 成绩排名 (20)                |                                                                | 查找元素              |
+| 1005 | 继续(3n+1)猜想 (25)          |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1005/Main.java) | Hash散列              |
+| 1006 | 换个格式输出整数 (15)        |                                                                | 字符串处理            |
+| 1007 | 素数对猜想 (20)              |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1007/Main.java) | 素数                  |
+| 1008 | 数组元素循环右移问题 (20)    |  [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1008/Main.java) | 模拟                  |
+| 1009 | 说反话 (20)                  |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1009/Main.java) | 字符串处理            |
+| 1010 | 一元多项式求导 (25)          |   [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1010/Main.java) | 模拟                  |
+| 1011 | A+B和C (15)                   | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1011/Main.java) | 模拟                  |
+| 1012 | 数字分类 (20)                  |                                                              | 模拟                  |
+| 1013 | 数素数 (20)                    |                                                              | 素数                  |
+| 1014 | 福尔摩斯的约会 (20)         | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1014/Main.java) | 字符串处理            |
+| 1015 | 德才论 (25)                   | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1015/Main.java) | 排序                  |
 | 1016 | 部分A+B (15)                 |  [查看题解](http://www.liuchuo.net/archives/534)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1016/Main.java) | 模拟                  |
 | 1017 | A除以B (20)                  |  [查看题解](http://www.liuchuo.net/archives/537)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1017/Main.java) | 大整数运算            |
 | 1018 | 锤子剪刀布 (20)              |  [查看题解](http://www.liuchuo.net/archives/539)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1018/Main.java) | 模拟                  |
